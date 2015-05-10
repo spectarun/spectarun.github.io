@@ -727,6 +727,18 @@ section#contact:-ms-input-placeholder {
     color: #bbb;
 }
 
+.cta {
+  padding-top: 10px;
+  padding-bottom: 0px;
+  text-transform: uppercase;
+  font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
+  font-weight: 400;
+  letter-spacing: 1px;
+  text-decoration: none;
+  line-height: 21px;
+  color: #F5003F;
+}
+
 section#contact .text-danger {
     color: #e74c3c;
 }
