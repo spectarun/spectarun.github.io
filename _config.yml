@@ -11,48 +11,13 @@ timezone:    nil
 # Site settings
 title: SpectaRun Workouts
 email: spectarun@gmail.com
-description: "Visualize running workouts from your Apple Watch on your iPhone, and export those workouts so you can upload them to your favorite online running community."
+description: "Visualize workouts from your Apple Watch on your iPhone, and export those workouts so you can upload them to your favorite online community."
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
   primary: F5003F
   secondary: F5003F
   secondary-dark: 333
-
-# Team names, titles and social links
-people:
-- name: Kay Garland
-  pic: 1
-  position: Lead Designer
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: stack-overflow
-      url: #
-
-- name: Larry Parker
-  pic: 2
-  position: Lead Marketer
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: linkedin
-      url: #
-
-- name: Diana Petersen
-  pic: 3
-  position: Lead Developer
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: google-plus
-      url: #
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
